@@ -1,0 +1,31 @@
+{
+  "name": "p5.js-3d-pillarsgen",
+  "version": "1.0.0",
+  "description": "Infinite 3D pillars generator using p5.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoPedro/p5.js-3d-pillarsgen.git"
+  },
+  "keywords": [
+    "p5.js",
+    "3D",
+    "generator"
+  ],
+  "author": "João Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoPedro/p5.js-3d-pillarsgen/issues"
+  },
+  "homepage": "https://github.com/JoPedro/p5.js-3d-pillarsgen#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
